@@ -44,6 +44,7 @@ cta_button_label: contact # the label on the button
 
 ---			
 [//]: # (write a bit about yourself here)
+
 ### Nau mai, haere mai. Here, you will find a brief introduction to me, my collaborators, and our work.
   
 My family journeyed from Ireland, England, Scotland, and Germany to settle in the landscapes of Waitaha, Kāti Mamoe, and [Kāi/Ngāi Tahu](https://ngaitahu.iwi.nz/) in Te Waipounamu, the South Island of Aotearoa New Zealand several generations ago. I grew up here on our home farm which lies in the shadow of Te Tiritiri o te Moana, the Southern Alps, and along the banks of the Waimakariri. 
