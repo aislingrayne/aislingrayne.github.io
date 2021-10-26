@@ -2,10 +2,10 @@
 # in the root directory
 
 research:
-  - category: published
+  - category: Published
     items:
       - item: published.html
         image: /images/koura.jpg
-  - category: pre-prints & papers in preparation/revision/review
+  - category: Preprints & papers In Preparation/Revision/Review
     items:
       - item: preprint.html
