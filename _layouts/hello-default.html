@@ -130,11 +130,12 @@
                           {% for items in categories.items %}
                           <div class="12u item">
                             <section>
+				    
+                              {% include {{ items.item }} %}
+				    
                               <div class="image featured">
                                   <img src="{{ items.image }}" alt="" />
                               </div>
-
-                              {% include {{ items.item }} %}
                             </section>
                           </div>
                           {% endfor %}
