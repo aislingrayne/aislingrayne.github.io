@@ -40,7 +40,7 @@ cta_description: Keen to kōrero? # a description to be desplayed below the head
 cta_button: mailto:a.l.rayne@outlook.co.nz # a link to an external website or to media
 cta_button_label: contact # the label on the button
 
----			
+---
 [//]: # (write a bit about yourself here)
 ![profile](profile.png){:height="200px"}
 
