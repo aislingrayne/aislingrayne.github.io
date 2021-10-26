@@ -178,14 +178,14 @@
             {% if page.twitter_username %}
             <li><a href="https://twitter.com/{{ page.twitter_username }}" class="icon circle fa-twitter"><span class="label">Twitter</span></a></li>
             {% endif %}
-            {% if page.facebook_username %}
-            <li><a href="https://www.facebook.com/{{ page.facebook_username }}" class="icon circle fa-facebook"><span class="label">Facebook</span></a></li>
+            {% if page.googlescholar %}
+            <li><a href="https://scholar.google.co.nz/citations?{{ page.googlescholar }}" class="icon circle ai-googlescholar"><span class="label">GoogleScholar</span></a></li>
             {% endif %}
             {% if page.github_username %}
             <li><a href="https://github.com/{{ page.github_username }}" class="icon circle fa-github"><span class="label">Github</span></a></li>
             {% endif %}
-            {% if page.linkedin %}
-            <li><a href="https://linkedin.com/in/{{ page.linkedin }}" class="icon circle fa-linkedin-square"><span class="label">LinkedIn</span></a></li>
+            {% if page.researchgate %}
+            <li><a href="https://researchgate.net/profile/{{ page.researchgate }}" class="icon circle ai-researchgate"><span class="label">ResearchGate</span></a></li>
             {% endif %}
         </ul>
 
@@ -198,5 +198,8 @@
 </footer>
 
   </body>
-
+  
+...
+{% include new-window-fix.html %}
+</body>
 </html>
