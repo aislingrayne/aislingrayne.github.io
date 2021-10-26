@@ -9,8 +9,6 @@ banner_subtitle: weaving people, place, and ways of knowing
 background_image: /images/bg.jpeg
 
 # all of the following variables are optional -----------------
-## page_url: /hello # only include this variable if you aren't building the page to your primary domain 
-
 # favicon
 favicon: /assets/ico/koura.png
 
@@ -19,7 +17,6 @@ twitter_username: @aisrayne # your twitter handle
 github_username: rayne95 # your github username
 researchgate: Aisling-Rayne
 googlescholar: user=gm7qbskAAAAJ&hl=en&oi=ao
-# google_analytics: <-- your google analytics Tracking ID
 
 # By declaring these variables, you can include a button that links to an external website or to media.
 about_button: https://aislingrayne.github.io/files/cv.pdf # the link
