@@ -17,6 +17,8 @@ favicon: /assets/ico/koura.png
 # social media
 twitter_username: aisrayne # # your twitter handle
 github_username:  rayne95 # your github username
+researchgate: Aisling-Rayne
+googlescholar: user=gm7qbskAAAAJ&hl=en&oi=ao
 # linkedin: saragong # the part after ("https://www.linkedin.com/in/...")
 # facebook_username: <-- your facebook username (the part after "https://www.facebook.com/...")
 # google_analytics: <-- your google analytics Tracking ID
