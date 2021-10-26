@@ -41,8 +41,10 @@ cta_button: mailto:a.l.rayne@outlook.co.nz # a link to an external website or to
 cta_button_label: contact # the label on the button
 
 
----			
+---
 [//]
+
+![profile](profile.png){:height="200px"}
 
 ### Nau mai, haere mai. Here, you will find a brief introduction to me, my collaborators, and our work.
   
