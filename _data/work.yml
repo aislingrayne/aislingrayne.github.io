@@ -5,8 +5,7 @@ work:
   - category: published
     items:
       - item: published.html
-        image: /images/levi-sampling-kowaro-with-tamariki.jpg # optionally, include the file path for an image for each item
   - category: pre-prints & papers in preparation/revision/review
     items:
       - item: preprint.html
-        image: /images/koura1.jpeg
+        image: /images/koura
