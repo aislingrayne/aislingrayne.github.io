@@ -115,7 +115,7 @@
 
             <!-- section: work-->
             {% if page.portfolio %}
-            <section class="wrapper style3 container special" id="{{ page.portfolio }}">
+            <section class="wrapper style3 container special" style="text-align:left" id="{{ page.portfolio }}">
 					      <header class="special">
                   <h2><strong>{{ page.portfolio }}</strong></h2>
                 </header>
@@ -128,7 +128,7 @@
                           </div>
 
                           {% for items in categories.items %}
-                          <div class="12u item" style="text-align:left">
+                          <div class="12u item">
                             <section>
                               <div class="image featured">
                                   <img src="{{ items.image }}" alt="" />
