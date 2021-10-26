@@ -45,14 +45,12 @@ cta_button_label: contact # the label on the button
 ---			
 [//]: # (write a bit about yourself here)
 
-### Nau mai, haere mai. Here, you will find a brief introduction to me, my collaborators, and our work.
-  
-My family journeyed from Ireland, England, Scotland, and Germany to settle in the landscapes of Waitaha, Kāti Mamoe, and [Kāi/Ngāi Tahu](https://ngaitahu.iwi.nz/) in Te Waipounamu, the South Island of Aotearoa New Zealand several generations ago. I grew up here on our home farm which lies in the shadow of Te Tiritiri o te Moana, the Southern Alps, and along the banks of the Waimakariri. 
+### Nau mai, haere mai. Here, you will find a brief introduction to myself, collaborators and our work.
 
-I'm currently a conservation genomics Research Associate with A/Prof [Tammy Steeves](https://www.canterbury.ac.nz/science/contact-us/people/tammy-steeves.html) who co-leads [ConSERTeam](http://www.ucconsert.org/) at the School of Biological Sciences, University of Canterbury, I’m increasingly involved in the *[Kindness in Science](http://www.kindnessinscience.org/)* collective. 
+I'm currently a conservation genomics Research Associate with A/Prof [Tammy Steeves](https://www.canterbury.ac.nz/science/contact-us/people/tammy-steeves.html) who co-leads [ConSERTeam](http://www.ucconsert.org/) at the School of Biological Sciences, University of Canterbury. As part of this role, I'm also increasingly involved in the *[Kindness in Science](http://www.kindnessinscience.org/)* collective. 
 
 The work found here reflects the collective knowledge and efforts of many, including Kāi/Ngāi Tahu partners, research colleagues (e.g., [Catherine Febria](https://www.healthyheadwaterslab.ca/), [Stephanie Galla](https://www.stephaniegalla.com/), [Cilla Wehi](http://www.priscillawehi.com/)), and local practitioners (e.g.,[KEEWAI](http://keewai.co.nz/), [Tūhaitara Coastal Park](https://www.tuhaitarapark.org.nz/), [Te Nohoaka o Tukiauau](https://www.tenohoaka.org.nz/). In general, our research supports whānau and community-led efforts to recover biocultural diversity by weaving diverse ways of knowing. For example, our ongoing work for kēkēwai, also known as wai kōura, freshwater crayfish, or crawlies, aims to reconnect people and place by exploring relationships of place encoded in oral narrative and DNA. 
 
-Research aside, you'll generally find me outdoors—whether hiking, skiing, diving, volunteering, or on the farm—or spending time with friends and family.
+Ko wai au? Several generations ago, my family journeyed from Ireland, England, Scotland, and Germany to settle in the landscapes of Waitaha, Kāti Mamoe, and [Kāi/Ngāi Tahu](https://ngaitahu.iwi.nz/) in Te Waipounamu, the South Island of Aotearoa New Zealand. I grew up here on our home farm in the shadow of Te Tiritiri o te Moana, the Southern Alps, and along the banks of the Waimakariri. Research aside, you'll generally find me outdoors—whether hiking, skiing, diving, volunteering, or on the farm—or spending time with friends and family.
 
 You can see my full CV here. If you'd like to chat, please don't hesitate to reach out with any thoughts or questions.
