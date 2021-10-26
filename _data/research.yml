@@ -5,7 +5,7 @@ research:
   - category: published
     items:
       - item: published.html
+        image: /images/koura.jpg
   - category: pre-prints & papers in preparation/revision/review
     items:
       - item: preprint.html
-        image: /images/koura.jpg
