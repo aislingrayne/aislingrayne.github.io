@@ -32,13 +32,13 @@ about_button_label: résumé # the label on the button
 # By declaring these variables, you can include a portfolio showcasing your work and organize your portfolio's items into a custom layout, all without adding any CSS. In addition, you must 1) create an HTML file in the_includes folder for each project with the text you'd like to display, and 2) create a YAML file in the _data folder describing the order in which each project should be shown and categorized. See `/includes/example.html` and `/_data/work.yml` for examples.
 
 portfolio: research # the heading for your portfolio and title of your YAML file
-portfolio_description: you can find some examples of our work below # a description to be desplayed below the heading and above the content
+portfolio_description: You can find some examples of our work below # a description to be desplayed below the heading and above the content
 
 # optional CTA section --------------------------------------------------
 
 # By declaring these variables, you can include a CTA section.
 cta: connect # the heading for your CTA section
-cta_description: keen to kōrero? # a description to be desplayed below the heading and above the content
+cta_description: Keen to kōrero? # a description to be desplayed below the heading and above the content
 cta_button: mailto:a.l.rayne@outlook.co.nz # a link to an external website or to media
 cta_button_label: contact # the label on the button
 
