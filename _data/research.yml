@@ -6,6 +6,6 @@ research:
     items:
       - item: published.html
         image: /images/koura.jpg
-  - category: preprints & papers In Preparation/Revision/Review
+  - category: preprints & papers In Prep, Revision, or Review
     items:
       - item: preprint.html
