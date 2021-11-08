@@ -53,4 +53,4 @@ The work found here reflects the collective knowledge and efforts of many, inclu
 
 Ko wai au? My ancestors journeyed to Aotearoa New Zealand from Ireland, England, Scotland, and Germany. I grew up here on our family farm in Te Waipounamu among the land and waterscapes of Waitaha, Kāti Mamoe, and [Kāi/Ngāi Tahu](https://ngaitahu.iwi.nz/). Research aside, you'll generally find me outdoors—whether hiking, skiing, diving, volunteering, or on the farm—or spending time with friends and family.
 
-You can see my full CV here. If you'd like to chat, please don't hesitate to reach out with any thoughts or questions.
+You can access my full CV below. If you'd like to chat, please don't hesitate to reach out.
