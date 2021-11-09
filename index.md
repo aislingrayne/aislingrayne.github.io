@@ -25,7 +25,7 @@ github_username:  rayne95 # your github username
 
 # By declaring these variables, you can include a button that links to an external website or to media.
 about_button: https://aislingrayne.github.io/files/cv.pdf # the link
-about_button_label: CV # the label on the button
+about_button_label: curriculum vitae # the label on the button
 
 # optional portfolio section ------------------------------------------
 
