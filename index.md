@@ -5,7 +5,7 @@ layout: hello-default
 
 # these variables are required -------------------------------
 banner_title: Aisling Rayne, PhD
-banner_subtitle: weaving people, place, and ways of knowing
+banner_subtitle: weaving people, place, and knowledge
 background_image: /images/bg.jpeg
 
 # all of the following variables are optional -----------------
