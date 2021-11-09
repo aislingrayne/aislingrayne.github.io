@@ -47,6 +47,8 @@ cta_button_label: contact # the label on the button
 
 ### Nau mai, haere mai. Here, you will find a brief introduction to myself, collaborators and our work.
 
+<img src="../images/profile.png" class="aligncenter" style="max-width:200px" alt="profile">
+
 I'm currently a Research Associate (conservation genomics) with A/Prof [Tammy Steeves](https://www.canterbury.ac.nz/science/contact-us/people/tammy-steeves.html) who co-leads [ConSERTeam](http://www.ucconsert.org/) at the School of Biological Sciences, University of Canterbury. As part of this role, I'm increasingly involved in the *[Kindness in Science](http://www.kindnessinscience.org/)* collective. 
 
 The work found here reflects the collective knowledge and efforts of many, including whānau, local communities, and practitioners (e.g.,[KEEWAI](http://keewai.co.nz/), [Tūhaitara Coastal Park](https://www.tuhaitarapark.org.nz/), [Te Nohoaka o Tukiauau](https://www.tenohoaka.org.nz/)). For example, our research for kēkēwai, also known as wai kōura, freshwater crayfish, or crawlies, aims to reconnect people and place by exploring relationships of place encoded in oral narrative and DNA. 
