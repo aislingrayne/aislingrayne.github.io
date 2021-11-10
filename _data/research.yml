@@ -13,7 +13,5 @@ research:
     blogs:
       - blog: theconversation.html
         image: /images/tuhaitara.jpg # optionally, include the file path for an image for each item
-      - blog: example.html
-        image: /images/NYC2.jpg
       - blog: bioheritage.html
         image: /images/kekewai.jpg
