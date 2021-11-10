@@ -8,7 +8,7 @@ research:
         image: /images/Tutaepatu-lagoon_evening-01.jpg # optionally, include the file path for an image for each item
       - blog: bioheritage.html
         image: /images/UNADJUSTEDNONRAW_thumb_e1b.jpg
-  - category: published
+  - category: published manuscripts
     items:
       - item: published.html
         image: /images/koura.jpg
