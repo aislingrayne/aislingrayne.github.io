@@ -2,6 +2,12 @@
 # in the root directory
 
 research:
+  - category: blogs and other popular media
+    blogs:
+      - blog: theconversation.html
+        image: /images/Tutaepatu-lagoon_evening-01.jpg # optionally, include the file path for an image for each item
+      - blog: bioheritage.html
+        image: /images/UNADJUSTEDNONRAW_thumb_e1b.jpg
   - category: published
     items:
       - item: published.html
@@ -9,9 +15,3 @@ research:
   - category: preprints & papers In Prep, Revision, or Review
     items:
       - item: preprint.html
-  - category: blogs and other popular media
-    blogs:
-      - blog: theconversation.html
-        image: /images/Tutaepatu-lagoon_evening-01.jpg # optionally, include the file path for an image for each item
-      - blog: bioheritage.html
-        image: /images/UNADJUSTEDNONRAW_thumb_e1b.jpg
