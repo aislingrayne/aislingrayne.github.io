@@ -120,11 +120,12 @@
                 </header>
                 <p>{{ page.portfolio_description }}</p>
                 {% for categories in site.data[page.portfolio][page.portfolio] %}
-     			 <div class="row">
+                <div class="row">
 
                           <div class="12u">
-                              <h3 style="margin-bottom:1em; font-size:1.25em"><strong>{{ categories.category}}</strong></h3>
+                              <h3 style="margin-bottom:2em; font-size:1.25em"><strong>{{ categories.category}}</strong></h3>
                           </div>
+			
 			{% for blogs in categories.blogs %}
                           <div class="6u blog">
                             <section>
@@ -136,7 +137,7 @@
                           </div>
                           {% endfor %}
 			
-                          {% for items in categories.items %}
+                         {% for items in categories.items %}
                           <div class="12u item">
                             <section>
 				    
@@ -146,7 +147,7 @@
                               </div>
                             </section>
                           </div>
-                          {% endfor %}
+                         {% endfor %}
                 </div>
 
                 {% endfor %}
