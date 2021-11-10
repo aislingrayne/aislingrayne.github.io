@@ -125,14 +125,13 @@
                           <div class="12u">
                               <h3 style="margin-bottom:1em; font-size:1.25em"><strong>{{ categories.category}}</strong></h3>
                           </div>
-			{% for blogs in categories.blogs %}
+			{% for items in categories.blogs %}
                           <div class="6u blog">
                             <section>
                               <div class="image featured">
                                   <img src="{{ blogs.image }}" alt="" />
                               </div>
-
-                              {% include {{ blogs.blog }} %}
+				    {% include {{ blogs.blog }} %}
                             </section>
                           </div>
                           {% endfor %}
