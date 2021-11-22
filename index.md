@@ -53,6 +53,6 @@ I'm currently a Research Assistant (conservation genomics) with [A/Prof Tammy St
 
 The work found below reflects the collective knowledge and efforts of many, including Ngāi Tahu whānui, local communities and practitioners (e.g., [KEEWAI](http://keewai.co.nz/), [Tūhaitara Coastal Park](https://www.tuhaitarapark.org.nz/), [Te Nohoaka o Tukiauau](https://www.tenohoaka.org.nz/)). For example, our research for kēkēwai, also known as wai kōura, freshwater crayfish, or crawlies, aims to reconnect people and place by exploring relationships encoded in oral narrative and DNA. 
 
-Ko wai au? I'm Pākehā (a non-Indigenous New Zealander of European colonial descent): earlier generations of my whānau came to Aotearoa from Ireland, England, Scotland, and Germany. I grew up on a family farm in Te Waipounamu among the land and waterscapes of Waitaha, Kāti Mamoe, and Kāi/Ngāi Tahu. Research aside, you'll generally find me outdoors—whether hiking, skiing, in the moana, or on the farm—or spending time with friends and family.
+Ko wai au? I'm Pākehā (a non-Indigenous New Zealander of European colonial descent): earlier generations of my whānau came to Aotearoa from Ireland, England, Scotland, and Germany. I grew up on a family farm in Te Waipounamu among the land and waterscapes of Waitaha, Kāti Mamoe, and Kāi/Ngāi Tahu. Research aside, you'll generally find me outdoors or with friends and family.
 
 You can access my full CV below. If you'd like to chat, please don't hesitate to reach out.
