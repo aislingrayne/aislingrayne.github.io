@@ -5,7 +5,7 @@ layout: hello-default
 
 # these variables are required -------------------------------
 banner_title: Aisling Rayne, PhD
-banner_subtitle: weaving people, place, and knowledge
+banner_subtitle: weaving people and place
 background_image: /images/bg.jpeg
 
 # all of the following variables are optional -----------------
@@ -49,10 +49,10 @@ cta_button_label: contact # the label on the button
 
 <img src="../images/profile.png" class="aligncenter" style="max-width:200px" alt="profile">
 
-I'm currently a Research Fellow based at the Centre of Sustainability (University of Otago) in Aotearoa NZ with [A/Prof Cilla Wehi](http://www.priscillawehi.com/). Together with advisors [A/Prof Tammy Steeves](https://www.canterbury.ac.nz/science/contact-us/people/tammy-steeves.html), [Dr Emma Sharp](https://unidirectory.auckland.ac.nz/profile/el-sharp), [Dr Leilani Walker](https://leilani-walker.com/), and [Prof Shaun Hendy](https://www.tepunahamatatini.ac.nz/shaun-hendy/), and PhD student Bethany Cox, we are conducting a thematic analysis aligned with the *[Kindness in Science](http://www.kindnessinscience.org/)* project at [Te Pūnaha Matatini](https://www.tepunahamatatini.ac.nz/).
+I'm currently a Research Fellow based at the Centre of Sustainability (University of Otago) in Aotearoa NZ with [A/Prof Cilla Wehi](http://www.priscillawehi.com/). Together with advisors [A/Prof Tammy Steeves](https://www.canterbury.ac.nz/science/contact-us/people/tammy-steeves.html), [Dr Emma Sharp](https://unidirectory.auckland.ac.nz/profile/el-sharp), [Dr Leilani Walker](https://leilani-walker.com/), and [Prof Shaun Hendy](https://www.tepunahamatatini.ac.nz/shaun-hendy/), and PhD student Bethany Cox, we are conducting a thematic analysis aligned with [Te Pūnaha Matatini](https://www.tepunahamatatini.ac.nz/) *[Kindness in Science](http://www.kindnessinscience.org/)* project.
 
-Prior to this, I was based at the School of Biological Sciences (University of Canterbury), in the [ConSERT](http://www.ucconsert.org/) research group co-led by Tammy Steeves. Our work there, also found below, reflects the collective knowledge and efforts of many, including Ngāi Tahu whānui, local communities and practitioners (e.g., [KEEWAI](http://keewai.co.nz/), [Tūhaitara Coastal Park](https://www.tuhaitarapark.org.nz/), [Te Nohoaka o Tukiauau](https://www.tenohoaka.org.nz/)). For example, our research for kēkēwai, also known as wai kōura, freshwater crayfish, or crawlies, aims to reconnect people and place by exploring relationships encoded in oral narrative and DNA. 
+Previously, I was based at the School of Biological Sciences (University of Canterbury), in the [ConSERT](http://www.ucconsert.org/) research group co-led by Tammy Steeves. Our work there reflects the collective knowledge and efforts of many, including Ngāi Tahu whānui, local communities and practitioners (e.g., [KEEWAI](http://keewai.co.nz/), [Tūhaitara Coastal Park](https://www.tuhaitarapark.org.nz/), [Te Nohoaka o Tukiauau](https://www.tenohoaka.org.nz/)). For example, ongoing research for kēkēwai, also known as wai kōura, freshwater crayfish, or crawlies, aims to reconnect people and place by exploring relationships encoded in oral narrative and DNA. 
 
-Ko wai au? I'm Pākehā (a non-Indigenous New Zealander of European descent): earlier generations of my whānau came to Aotearoa from Ireland, England, Scotland, and Germany. I grew up on a family farm in Te Waipounamu among the land and waterscapes of Waitaha, Kāti Mamoe, and Kāi/Ngāi Tahu. Research aside, you'll generally find me outdoors or with friends and family.
+Ko wai au? I'm Pākehā (a non-Indigenous New Zealander of Irish / English descent). I grew up on a family farm in Te Waipounamu among the land and waterscapes of Waitaha, Kāti Mamoe, and Kāi/Ngāi Tahu. Research aside, you'll generally find me outdoors or with friends and family.
 
 You can access my full CV below. If you'd like to chat, please don't hesitate to reach out.
