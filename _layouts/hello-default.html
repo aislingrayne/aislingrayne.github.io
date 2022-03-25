@@ -120,7 +120,8 @@
 					      <header class="special">
                   <h2><strong>{{ page.portfolio }}</strong></h2>
                 </header>
-                <p>{{ page.portfolio_description }}</p>
+                <p>{{ page.portfolio_description }}
+		    <div style="text-align:left"> </p>
                 {% for categories in site.data[page.portfolio][page.portfolio] %}
                 <div class="row">
 
@@ -147,7 +148,6 @@
                               {% include {{ items.item }} %}	    
                               <div class="image featured">
                                   <img src="{{ items.image }}" alt="" />
-				      <div style="text-align:left"> 
                               </div>
                             </section>
                           </div>
