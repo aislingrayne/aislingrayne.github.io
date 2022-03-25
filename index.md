@@ -57,9 +57,7 @@ Ko wai au? I'm Pākehā (a non-Indigenous New Zealander of Irish / English desce
 
 <div style="text-align: center;">
 
-<img width="200" src="../images/295e0575-5b9a-4611-88e9-a662a5c657b3.png">
+<img width="200" src="../images/295e0575-5b9a-4611-88e9-a662a5c657b3.png" alt="profile">
 
 </div>
-#<img src="../images/295e0575-5b9a-4611-88e9-a662a5c657b3.png" class="aligncenter" style="max-width:200px" alt="profile">
-
 You can access my full CV below. If you'd like to chat, please don't hesitate to reach out.
