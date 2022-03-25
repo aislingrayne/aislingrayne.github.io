@@ -55,6 +55,11 @@ Previously, I was based at the School of Biological Sciences (University of Cant
 
 Ko wai au? I'm Pākehā (a non-Indigenous New Zealander of Irish / English descent). I grew up on a family farm in Te Waipounamu among the land and waterscapes of Waitaha, Kāti Mamoe, and Kāi Tahu. Research aside, you'll generally find me outdoors or with friends and family.
 
-<img src="../images/295e0575-5b9a-4611-88e9-a662a5c657b3.png" class="aligncenter" style="max-width:200px" alt="profile">
+<div style="text-align: center;">
+
+<img width="200" src="../images/295e0575-5b9a-4611-88e9-a662a5c657b3.png">
+
+</div>
+#<img src="../images/295e0575-5b9a-4611-88e9-a662a5c657b3.png" class="aligncenter" style="max-width:200px" alt="profile">
 
 You can access my full CV below. If you'd like to chat, please don't hesitate to reach out.
