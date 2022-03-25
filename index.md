@@ -45,6 +45,7 @@ cta_button_label: contact # the label on the button
 ---			
 [//]: # (write a bit about yourself here)
 
+<div style="text-align: left;">
 ### Kia ora! Welcome, and thank you, for visiting this webpage. Here, you will find a brief introduction to me, research partners and our work.
 
 My research interests span multiple disciplines and knowledge systems. At present, I'm a Research Fellow in social and complex systems science based at the University of Otago's [Centre for Sustainability](https://www.otago.ac.nz/centre-sustainability/index.html) with [A/Prof Cilla Wehi](http://www.priscillawehi.com/), as part of the *[Kindness in Science](http://www.kindnessinscience.org/)* project at [Te Pūnaha Matatini](https://www.tepunahamatatini.ac.nz/). Together with advisors [A/Prof Tammy Steeves](https://www.canterbury.ac.nz/science/contact-us/people/tammy-steeves.html), [Dr Emma Sharp](https://unidirectory.auckland.ac.nz/profile/el-sharp), [Dr Leilani Walker](https://leilani-walker.com/), and [Prof Shaun Hendy](https://www.tepunahamatatini.ac.nz/shaun-hendy/), and PhD student Bethany Cox, we are applying mixed methods to better understand the trajectory of change in Aotearoa NZ’s research system, as well as the drivers, practices, and policies that enable an inclusive, kind and just system.
@@ -56,7 +57,7 @@ Previously, I was based at the School of Biological Sciences (University of Cant
 Ko wai au? I'm Pākehā (a non-Indigenous New Zealander of Irish / English descent). I grew up on a family farm in Te Waipounamu among the land and waterscapes of Waitaha, Kāti Mamoe, and Kāi Tahu. Research aside, you'll generally find me outdoors or with friends and family.
 
 You can access my full CV below. If you'd like to chat, please don't hesitate to reach out.
-
+</div>
 <div style="text-align: center;">
 <img width="200" src="../images/295e0575-5b9a-4611-88e9-a662a5c657b3.png" alt="profile">
 </div>
