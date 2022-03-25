@@ -130,10 +130,10 @@
 			
 			{% for blogs in categories.blogs %}
                           <div class="6u blog">
-				<div style="padding: 0 1em; text-align:left"> 
                             <section>
                               <div class="image featured">
                                   <img src="{{ blogs.image }}" alt="" />
+				      <div style="text-align:left"> 
                               </div>
 				    {% include {{ blogs.blog }} %}
                             </section>
@@ -147,6 +147,7 @@
                               {% include {{ items.item }} %}	    
                               <div class="image featured">
                                   <img src="{{ items.image }}" alt="" />
+				      <div style="text-align:left"> 
                               </div>
                             </section>
                           </div>
