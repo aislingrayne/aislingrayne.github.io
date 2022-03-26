@@ -45,7 +45,7 @@
         <link rel="stylesheet" href="/css/style.css" />
         <link rel="stylesheet" href="/css/style-wide.css" />
         <link rel="stylesheet" href="/css/style-noscript.css" />
-	<link rel="stylesheet" href="/css/academicons.min.css">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
     </noscript>
     <meta name="viewport" content="width=device-width">
 
@@ -186,15 +186,21 @@
 
     <!-- Footer -->
     <footer id="footer">
-	    
-<ul class "social-icons">
 
-    <a class="social-icon" href="https://twitter.com/aisrayne"><i class="fa fa-twitter"></i></a>
-    <a class="social-icon" href="https://scholar.google.co.nz/citations?user=gm7qbskAAAAJ&hl=en&oi=ao"><i class="ai ai-google-scholar"></i></a>
-    <a class="social-icon" href="https://github.com/rayne95"><i class="fa fa-github"></i></a>
-    <a class="social-icon" href="https://www.researchgate.net/profile/Aisling-Rayne"><i class="ai ai-researchgate"></i></a>
-	
-</ul>
+        <ul class="icons">
+            {% if page.twitter_username %}
+            <li><a href="https://twitter.com/{{ page.twitter_username }}" class="icon circle fa-twitter"><span class="label">Twitter</span></a></li>
+            {% endif %}
+            {% if page.googlescholar %}
+            <li><a href="https://scholar.google.co.nz/citations?{{ page.googlescholar }}" class="ai ai-google-scholar"><span class="label">GoogleScholar</span></a></li>
+            {% endif %}
+            {% if page.github_username %}
+            <li><a href="https://github.com/{{ page.github_username }}" class="icon circle fa-github"><span class="label">Github</span></a></li>
+            {% endif %}
+            {% if page.researchgate %}
+            <li><a href="https://researchgate.net/profile/{{ page.researchgate }}" class="icon circle ai-researchgate"><span class="label">ResearchGate</span></a></li>
+            {% endif %}
+        </ul>
 
     <ul class="copyright">
         <li>this website is maintained by {{ site.author}}</li>
@@ -206,3 +212,6 @@
 {% include new-window-fix.html %}
 </body>
 </html>
+© 2022 GitHub, Inc.
+Terms
+Privacy
