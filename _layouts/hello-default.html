@@ -186,21 +186,35 @@
 
     <!-- Footer -->
     <footer id="footer">
-
-        <ul class="icons">
-            {% if page.twitter_username %}
-            <li><a href="https://twitter.com/{{ page.twitter_username }}" class="icon circle fa-twitter"><span class="label">Twitter</span></a></li>
-            {% endif %}
-            {% if page.googlescholar %}
-            <li><a href="https://scholar.google.co.nz/citations?{{ page.googlescholar }}" class="ai ai-google-scholar"></a></li>
-            {% endif %}
-            {% if page.github_username %}
-            <li><a href="https://github.com/{{ page.github_username }}" class="icon circle fa-github"><span class="label">Github</span></a></li>
-            {% endif %}
-            {% if page.researchgate %}
-            <li><a href="https://researchgate.net/profile/{{ page.researchgate }}" class="ai ai-researchgate"></a></li>
-            {% endif %}
-        </ul>
+	    
+<ul class "social-icons">
+	<head>
+		<style>
+      		.social-icons .social-icon {
+          		display: inline-flex;
+          		align-items: center;
+         		 justify-content: center;
+         		 height: 3.5rem;
+         		 width: 3.5rem;
+         		 background-color: #495057;
+         		 color: #fff;
+         		 border-radius: 100%;
+         		 font-size: 1.5rem;
+         		 margin-right: 0.5rem;
+         		 text-decoration: none;
+    		  }
+    		</style>
+	</head>
+<body>
+  <div class="social-icons">
+    <a class="social-icon" href="https://twitter.com/aisrayne"><i class="fab fa-twitter"></i></a>
+    <a class="social-icon" href="#"><i class="ai ai-google-scholar"></i></a>
+    <a class="social-icon" href="#"><i class="fab fa-github"></i></a>
+    <a class="social-icon" href="#"><i class="ai ai-researchgate"></i></a>
+  </div>
+</body>
+	
+</ul>
 
     <ul class="copyright">
         <li>this website is maintained by {{ site.author}}</li>
