@@ -245,7 +245,7 @@ custom styles adapted from Twenty by HTML5 Up
 		.icon:before {
 			-moz-osx-font-smoothing: grayscale;
 			-webkit-font-smoothing: antialiased;
-			font-family: FontAwesome;
+			font-family: FontAwesome, Academicons;
 			font-style: normal;
 			font-weight: normal;
 			text-transform: none !important;
