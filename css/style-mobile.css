@@ -21,7 +21,7 @@
 	}
 
 	p {
-		text-align: center;
+		text-align: left;
 	}
 
 /* Section/Article */
@@ -50,7 +50,7 @@
 			}
 
 		header p {
-			text-align: center;
+			text-align: left;
 		}
 
 	footer.major {
