@@ -134,15 +134,15 @@
                             <section>
                               <div class="image featured">
                                   <img src="{{ blogs.image }}" alt="" />
-				      <div style="text-align:left"> 
+				   <div style="text-align:left"> 
                               </div>
 				    {% include {{ blogs.blog }} %}
                             </section>
                           </div>
                           {% endfor %}
-			<div style="text-align:left">
                          {% for items in categories.items %}
                           <div class="12u item">
+				<div style="text-align:left">
                             <section>
                               {% include {{ items.item }} %}	    
                               <div class="image featured">
