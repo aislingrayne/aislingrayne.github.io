@@ -238,60 +238,84 @@ custom styles adapted from Twenty by HTML5 Up
 
 /* Icon */
 
-	.social-icons {
+	.icon {
 		position: relative;
 	}
 
-      		.social-icons .fa {
-          		display: inline-flex;
-          		align-items: center;
-         		 justify-content: center;
-         		 height: 3.5rem;
-         		 width: 3.5rem;
-			 background-color: #70aecd; 
-         		 color: #fff;
-         		 border-radius: 100%;
-         		 font-size: 1.5rem;
-         		 margin-right: 0.5rem;
-         		 text-decoration: none;
-    		  }
+		.icon:before {
+			-moz-osx-font-smoothing: grayscale;
+			-webkit-font-smoothing: antialiased;
+			font-family: FontAwesome;
+			font-style: normal;
+			font-weight: normal;
+			text-transform: none !important;
+		}
 
-      		.social-icons .ai {
-          		display: inline-flex;
-          		align-items: center;
-         		 justify-content: center;
-         		 height: 3.5rem;
-         		 width: 3.5rem;
-			 background-color: #e1b89b;
-         		 color: #fff;
-         		 border-radius: 100%;
-         		 font-size: 1.5rem;
-         		 margin-right: 0.5rem;
-         		 text-decoration: none;
-    		  }
+		.ai:before{
+			font-family: Academicons;
+	    	 }
 
-			.social-icons:hover {
+		.icon.circle {
+			-moz-transition: all 0.2s ease-in-out;
+			-webkit-transition: all 0.2s ease-in-out;
+			-o-transition: all 0.2s ease-in-out;
+			-ms-transition: all 0.2s ease-in-out;
+			transition: all 0.2s ease-in-out;
+			border: 0;
+			border-radius: 100%;
+			display: inline-block;
+			font-size: 1.25em;
+			height: 2.25em;
+			left: 0;
+			line-height: 2.25em;
+			text-align: center;
+			text-decoration: none;
+			top: 0;
+			width: 2.25em;
+		}
+
+			.icon.circle:hover {
 				top: -0.2em;
 			}
 
-			.fa.fa-twitter {
+			.icon.circle.fa-twitter {
 				background: #70aecd;
 				color: white;
 			}
 
-				.fa.fa-twitter:hover {
+				.icon.circle.fa-twitter:hover {
 					background: #7fb7d2;
 				}
-	
-			ai.ai-google-scholar {
+			
+			.icon.circle.fa-linkedin-square {
+				background: #0077B5;
 				color: white;
 			}
 
-				.ai.ai-google-scholar:hover {
+				.icon.circle.fa-linkedin-square:hover {
+					background: #288bbf;
+				}
+
+			.icon.circle.fa-facebook {
+				background: #7490c3;
+				color: white;
+			}
+
+				.icon.circle.fa-facebook:hover {
+					background: #829bc9;
+				}
+
+			.icon.circle.ai-google-scholar {
+				background: #db6b67;
+				color: white;
+			}
+
+				.icon.circle.ai-google-scholar:hover {
 					background: #df7b77;
 				}
 
 			.icon.circle.fa-github {
+				background: #dcad8b;
 				color: white;
 			}
 
@@ -299,11 +323,12 @@ custom styles adapted from Twenty by HTML5 Up
 					background: #e1b89b;
 				}
 
-			.ai.ai-researchgate {
+			.icon.circle.ai-researchgate {
+				background: #da83ae;
 				color: white;
 			}
 
-				.ai.ai-researchgate:hover {
+				.icon.circle.ai-researchgate:hover {
 					background: #df93b8;
 				}
 
