@@ -301,12 +301,12 @@ custom styles adapted from Twenty by HTML5 Up
 					background: #829bc9;
 				}
 
-			.icon.circle.ai-google-scholar {
+			.ai.ai-google-scholar {
 				background: #db6b67;
 				color: white;
 			}
 
-				.icon.circle.ai-google-scholar:hover {
+				.ai.ai-google-scholar:hover {
 					background: #df7b77;
 				}
 
@@ -319,12 +319,12 @@ custom styles adapted from Twenty by HTML5 Up
 					background: #e1b89b;
 				}
 
-			.icon.circle.ai-researchgate {
+			.ai.ai-researchgate {
 				background: #da83ae;
 				color: white;
 			}
 
-				.icon.circle.ai-researchgate:hover {
+				.ai.ai-researchgate:hover {
 					background: #df93b8;
 				}
 
