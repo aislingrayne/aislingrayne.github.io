@@ -238,68 +238,38 @@ custom styles adapted from Twenty by HTML5 Up
 
 /* Icon */
 
-	.icon {
+	.social-icons {
 		position: relative;
 	}
 
-		.icon:before {
-			-moz-osx-font-smoothing: grayscale;
-			-webkit-font-smoothing: antialiased;
-			font-family: FontAwesome, Academicons;
-			font-style: normal;
-			font-weight: normal;
-			text-transform: none !important;
-		}
 
-		.icon.circle {
-			-moz-transition: all 0.2s ease-in-out;
-			-webkit-transition: all 0.2s ease-in-out;
-			-o-transition: all 0.2s ease-in-out;
-			-ms-transition: all 0.2s ease-in-out;
-			transition: all 0.2s ease-in-out;
-			border: 0;
-			border-radius: 100%;
-			display: inline-block;
-			font-size: 1.25em;
-			height: 2.25em;
-			left: 0;
-			line-height: 2.25em;
-			text-align: center;
-			text-decoration: none;
-			top: 0;
-			width: 2.25em;
-		}
+      		.social-icons .social-icon {
+          		display: inline-flex;
+          		align-items: center;
+         		 justify-content: center;
+         		 height: 3.5rem;
+         		 width: 3.5rem;
+         		 color: #fff;
+         		 border-radius: 100%;
+         		 font-size: 1.5rem;
+         		 margin-right: 0.5rem;
+         		 text-decoration: none;
+    		  }
 
-			.icon.circle:hover {
+			.social-icons:hover {
 				top: -0.2em;
 			}
 
-			.icon.circle.fa-twitter {
+			.fa.fa-twitter {
 				background: #70aecd;
 				color: white;
 			}
 
-				.icon.circle.fa-twitter:hover {
+				.fa.fa-twitter:hover {
 					background: #7fb7d2;
 				}
-			
-			.icon.circle.fa-linkedin-square {
-				color: white;
-			}
-
-				.icon.circle.fa-linkedin-square:hover {
-					background: #288bbf;
-				}
-
-			.icon.circle.fa-facebook {
-				color: white;
-			}
-
-				.icon.circle.fa-facebook:hover {
-					background: #829bc9;
-				}
-
-			.ai.ai-google-scholar {
+	
+			ai.ai-google-scholar {
 				color: white;
 			}
 
