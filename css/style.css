@@ -248,6 +248,7 @@ custom styles adapted from Twenty by HTML5 Up
          		 justify-content: center;
          		 height: 3.5rem;
          		 width: 3.5rem;
+			 background-color: #70aecd; 
          		 color: #fff;
          		 border-radius: 100%;
          		 font-size: 1.5rem;
@@ -261,6 +262,7 @@ custom styles adapted from Twenty by HTML5 Up
          		 justify-content: center;
          		 height: 3.5rem;
          		 width: 3.5rem;
+			 background-color: #e1b89b;
          		 color: #fff;
          		 border-radius: 100%;
          		 font-size: 1.5rem;
