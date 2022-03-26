@@ -242,8 +242,20 @@ custom styles adapted from Twenty by HTML5 Up
 		position: relative;
 	}
 
+      		.social-icons .fa {
+          		display: inline-flex;
+          		align-items: center;
+         		 justify-content: center;
+         		 height: 3.5rem;
+         		 width: 3.5rem;
+         		 color: #fff;
+         		 border-radius: 100%;
+         		 font-size: 1.5rem;
+         		 margin-right: 0.5rem;
+         		 text-decoration: none;
+    		  }
 
-      		.social-icons .social-icon {
+      		.social-icons .ai {
           		display: inline-flex;
           		align-items: center;
          		 justify-content: center;
