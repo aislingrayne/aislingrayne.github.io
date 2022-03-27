@@ -119,11 +119,11 @@ custom styles adapted from Twenty by HTML5 Up
 	}
 
 	header.major {
-		padding-bottom: 2em;
+		padding-bottom: 1em;
 	}
 
 	header.special {
-		margin-bottom: 5em;
+		margin-bottom: 2em;
 		padding-top: 7em;
 		position: relative;
 		text-align: center;
@@ -287,23 +287,6 @@ custom styles adapted from Twenty by HTML5 Up
 					background: #7fb7d2;
 				}
 			
-			.icon.circle.fa-linkedin-square {
-				background: #0077B5;
-				color: white;
-			}
-
-				.icon.circle.fa-linkedin-square:hover {
-					background: #288bbf;
-				}
-
-			.icon.circle.fa-facebook {
-				background: #7490c3;
-				color: white;
-			}
-
-				.icon.circle.fa-facebook:hover {
-					background: #829bc9;
-				}
 
 			.icon.circle.ai-google-scholar {
 				background: #db6b67;
