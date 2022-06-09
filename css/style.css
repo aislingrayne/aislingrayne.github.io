@@ -691,10 +691,6 @@ custom styles adapted from Twenty by HTML5 Up
 		margin-bottom:0em;
 	}
 
-	#banner p {
-		font-size:1.1em;
-	}
-
 		#banner .inner {
 			-moz-animation: reveal-banner 1s 0.25s ease-in-out;
 			-webkit-animation: reveal-banner 1s 0.25s ease-in-out;
@@ -718,7 +714,7 @@ custom styles adapted from Twenty by HTML5 Up
 				display: inline-block;
 				border-bottom: solid 2px;
 				border-top: solid 2px;
-				margin: 0 0 2em 0;
+				margin: 0 0 0 0;
 				padding: 3px 0 3px 0;
 			}
 
@@ -747,7 +743,7 @@ custom styles adapted from Twenty by HTML5 Up
 				}
 
 			#banner .inner footer {
-				margin: 2em 0 0 0;
+				margin: 0 0 0 0;
 			}
 
 /* Main */
