@@ -683,12 +683,16 @@ custom styles adapted from Twenty by HTML5 Up
 		background-size: 20em, cover;
 		color: white;
 		cursor: default;
-		padding: 0 0;
+		padding: 8em 0;
 		text-align: center;
 	}
 
 	#banner h2 {
 		margin-bottom:0em;
+	}
+
+	#banner p {
+		font-size:1.1em;
 	}
 
 		#banner .inner {
@@ -714,7 +718,7 @@ custom styles adapted from Twenty by HTML5 Up
 				display: inline-block;
 				border-bottom: solid 2px;
 				border-top: solid 2px;
-				margin: 0 0 0 0;
+				margin: 0 0 2em 0;
 				padding: 3px 0 3px 0;
 			}
 
@@ -743,7 +747,7 @@ custom styles adapted from Twenty by HTML5 Up
 				}
 
 			#banner .inner footer {
-				margin: 0 0 0 0;
+				margin: 2em 0 0 0;
 			}
 
 /* Main */
