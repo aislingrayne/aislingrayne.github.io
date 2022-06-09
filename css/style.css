@@ -680,7 +680,7 @@ custom styles adapted from Twenty by HTML5 Up
 		background-color: transparent;
 		background-position: bottom center, top center;
 		background-repeat: no-repeat;
-		background-size: 25em, cover;
+		background-size: 20em, cover;
 		color: white;
 		cursor: default;
 		padding: 8em 0;
@@ -688,7 +688,7 @@ custom styles adapted from Twenty by HTML5 Up
 	}
 
 	#banner h2 {
-		margin-bottom:1em;
+		margin-bottom:0em;
 	}
 
 	#banner p {
